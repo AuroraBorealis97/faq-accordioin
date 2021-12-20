@@ -75,7 +75,15 @@ main div p{
     width:90%;
     font-size: .8em;
     color: hsl(240, 6%, 50%);
+    
+}
+
+.display{
     display: none;
+}
+
+.arrow{
+    cursor: pointer;
 }
 
 .attribution{
